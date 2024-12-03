@@ -1,0 +1,101 @@
+CustomerID,PreferredRoomType,PreferredFloor,SpecialRequests,FoodBeveragePreferences
+1,Standard,6,Ocean view,Non-Vegetarian
+2,Suite,8,Early check-in,Non-Vegetarian
+3,Suite,7,Early check-in,Vegetarian
+4,Suite,6,No special requests,Non-Vegetarian
+5,Standard,2,Ocean view,Non-Vegetarian
+6,Deluxe,2,No special requests,Vegetarian
+7,Standard,6,Late check-out,Non-Vegetarian
+8,Deluxe,5,Ocean view,Non-Vegetarian
+9,Deluxe,5,Ocean view,Vegetarian
+10,Suite,5,Early check-in,Non-Vegetarian
+11,Standard,5,Ocean view,Non-Vegetarian
+12,Suite,5,Ocean view,Vegan
+13,Standard,4,No special requests,Vegan
+14,Suite,7,Ocean view,Non-Vegetarian
+15,Standard,9,No special requests,Non-Vegetarian
+16,Suite,2,Late check-out,Non-Vegetarian
+17,Deluxe,7,Late check-out,Non-Vegetarian
+18,Deluxe,7,Early check-in,Vegan
+19,Suite,1,Ocean view,Vegan
+20,Standard,9,No special requests,Non-Vegetarian
+21,Standard,9,No special requests,Vegan
+22,Suite,4,Ocean view,Non-Vegetarian
+23,Deluxe,8,Late check-out,Vegetarian
+24,Suite,2,Ocean view,Vegetarian
+25,Suite,6,Ocean view,Vegan
+26,Deluxe,1,Late check-out,Vegan
+27,Suite,8,No special requests,Vegan
+28,Standard,7,Late check-out,Non-Vegetarian
+29,Suite,3,Early check-in,Vegetarian
+30,Deluxe,3,Late check-out,Vegetarian
+31,Standard,8,Late check-out,Vegan
+32,Suite,7,No special requests,Vegan
+33,Standard,8,No special requests,Vegan
+34,Suite,9,No special requests,Non-Vegetarian
+35,Suite,5,No special requests,Vegan
+36,Standard,3,No special requests,Non-Vegetarian
+37,Standard,8,No special requests,Vegetarian
+38,Suite,3,Late check-out,Vegan
+39,Deluxe,8,Early check-in,Vegetarian
+40,Deluxe,9,Ocean view,Non-Vegetarian
+41,Suite,2,Late check-out,Non-Vegetarian
+42,Standard,4,Ocean view,Vegetarian
+43,Deluxe,5,Early check-in,Non-Vegetarian
+44,Suite,2,Ocean view,Vegetarian
+45,Suite,2,Late check-out,Vegan
+46,Standard,6,No special requests,Vegan
+47,Standard,8,Early check-in,Vegetarian
+48,Standard,3,No special requests,Vegetarian
+49,Suite,4,Late check-out,Non-Vegetarian
+50,Standard,4,Ocean view,Vegan
+51,Deluxe,7,Early check-in,Vegetarian
+52,Suite,5,Ocean view,Vegan
+53,Standard,7,No special requests,Vegan
+54,Suite,1,Ocean view,Non-Vegetarian
+55,Deluxe,9,Ocean view,Non-Vegetarian
+56,Standard,5,Early check-in,Vegan
+57,Standard,5,No special requests,Vegan
+58,Deluxe,8,Ocean view,Vegetarian
+59,Standard,6,Early check-in,Vegan
+60,Suite,5,No special requests,Vegan
+61,Suite,2,No special requests,Vegan
+62,Standard,8,Ocean view,Non-Vegetarian
+63,Suite,1,Late check-out,Vegan
+64,Standard,8,Late check-out,Vegan
+65,Standard,3,Early check-in,Non-Vegetarian
+66,Deluxe,2,Ocean view,Non-Vegetarian
+67,Standard,5,No special requests,Non-Vegetarian
+68,Standard,4,Early check-in,Vegetarian
+69,Standard,6,Late check-out,Vegetarian
+70,Suite,3,Early check-in,Non-Vegetarian
+71,Standard,7,Early check-in,Non-Vegetarian
+72,Suite,6,Late check-out,Vegan
+73,Deluxe,3,Early check-in,Non-Vegetarian
+74,Standard,5,No special requests,Vegan
+75,Suite,4,Late check-out,Vegetarian
+76,Deluxe,7,Early check-in,Non-Vegetarian
+77,Suite,6,Early check-in,Vegan
+78,Suite,3,No special requests,Vegetarian
+79,Standard,4,Early check-in,Vegan
+80,Deluxe,5,Ocean view,Non-Vegetarian
+81,Standard,6,Early check-in,Non-Vegetarian
+82,Standard,4,No special requests,Vegetarian
+83,Standard,7,No special requests,Non-Vegetarian
+84,Suite,9,Late check-out,Vegetarian
+85,Standard,2,Late check-out,Non-Vegetarian
+86,Standard,7,No special requests,Vegetarian
+87,Standard,8,Early check-in,Non-Vegetarian
+88,Standard,8,Early check-in,Vegetarian
+89,Standard,9,Early check-in,Vegan
+90,Deluxe,2,Early check-in,Non-Vegetarian
+91,Deluxe,1,Ocean view,Non-Vegetarian
+92,Deluxe,7,Early check-in,Non-Vegetarian
+93,Suite,1,Late check-out,Vegan
+94,Suite,8,Early check-in,Vegetarian
+95,Suite,4,Early check-in,Non-Vegetarian
+96,Deluxe,4,Early check-in,Vegan
+97,Standard,3,Early check-in,Non-Vegetarian
+98,Suite,7,Ocean view,Non-Vegetarian
+99,Suite,9,Late check-out,Vegetarian
+100,Suite,9,No special requests,Non-Vegetarian

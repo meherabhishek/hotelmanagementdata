@@ -1,0 +1,101 @@
+GeoID,CustomerID,HomeLocation,HotelLocation,NearbyAttractions
+1,1,"Tokyo, Japan","Mumbai, India",Hollywood Walk of Fame
+2,2,"Tokyo, Japan","Los Angeles, USA",Hollywood Walk of Fame
+3,3,"Tokyo, Japan","Munich, Germany",Neuschwanstein Castle
+4,4,"New York, USA","Munich, Germany",Fushimi Inari Shrine
+5,5,"New York, USA","Kyoto, Japan",Fushimi Inari Shrine
+6,6,"Delhi, India","Mumbai, India",Hollywood Walk of Fame
+7,7,"Berlin, Germany","Los Angeles, USA",Neuschwanstein Castle
+8,8,"Berlin, Germany","Los Angeles, USA",Fushimi Inari Shrine
+9,9,"New York, USA","Mumbai, India",Fushimi Inari Shrine
+10,10,"Berlin, Germany","Kyoto, Japan",Neuschwanstein Castle
+11,11,"Berlin, Germany","Los Angeles, USA",Hollywood Walk of Fame
+12,12,"New York, USA","Kyoto, Japan",Neuschwanstein Castle
+13,13,"New York, USA","Kyoto, Japan",Fushimi Inari Shrine
+14,14,"Tokyo, Japan","Kyoto, Japan",Hollywood Walk of Fame
+15,15,"Berlin, Germany","Munich, Germany",Gateway of India
+16,16,"New York, USA","Munich, Germany",Gateway of India
+17,17,"Tokyo, Japan","Munich, Germany",Neuschwanstein Castle
+18,18,"New York, USA","Mumbai, India",Gateway of India
+19,19,"Tokyo, Japan","Los Angeles, USA",Neuschwanstein Castle
+20,20,"Tokyo, Japan","Kyoto, Japan",Hollywood Walk of Fame
+21,21,"Berlin, Germany","Mumbai, India",Gateway of India
+22,22,"New York, USA","Mumbai, India",Neuschwanstein Castle
+23,23,"Berlin, Germany","Los Angeles, USA",Fushimi Inari Shrine
+24,24,"Delhi, India","Kyoto, Japan",Hollywood Walk of Fame
+25,25,"New York, USA","Mumbai, India",Neuschwanstein Castle
+26,26,"New York, USA","Kyoto, Japan",Gateway of India
+27,27,"Berlin, Germany","Kyoto, Japan",Fushimi Inari Shrine
+28,28,"New York, USA","Kyoto, Japan",Hollywood Walk of Fame
+29,29,"Berlin, Germany","Munich, Germany",Neuschwanstein Castle
+30,30,"New York, USA","Los Angeles, USA",Gateway of India
+31,31,"Tokyo, Japan","Mumbai, India",Neuschwanstein Castle
+32,32,"Delhi, India","Kyoto, Japan",Hollywood Walk of Fame
+33,33,"New York, USA","Munich, Germany",Neuschwanstein Castle
+34,34,"Delhi, India","Mumbai, India",Neuschwanstein Castle
+35,35,"New York, USA","Munich, Germany",Hollywood Walk of Fame
+36,36,"Delhi, India","Kyoto, Japan",Fushimi Inari Shrine
+37,37,"New York, USA","Munich, Germany",Hollywood Walk of Fame
+38,38,"Berlin, Germany","Kyoto, Japan",Neuschwanstein Castle
+39,39,"New York, USA","Kyoto, Japan",Fushimi Inari Shrine
+40,40,"Tokyo, Japan","Mumbai, India",Gateway of India
+41,41,"Tokyo, Japan","Munich, Germany",Gateway of India
+42,42,"Tokyo, Japan","Los Angeles, USA",Gateway of India
+43,43,"Delhi, India","Kyoto, Japan",Fushimi Inari Shrine
+44,44,"Delhi, India","Munich, Germany",Hollywood Walk of Fame
+45,45,"Delhi, India","Los Angeles, USA",Fushimi Inari Shrine
+46,46,"Delhi, India","Kyoto, Japan",Neuschwanstein Castle
+47,47,"Tokyo, Japan","Mumbai, India",Hollywood Walk of Fame
+48,48,"Berlin, Germany","Munich, Germany",Neuschwanstein Castle
+49,49,"Berlin, Germany","Kyoto, Japan",Hollywood Walk of Fame
+50,50,"Berlin, Germany","Munich, Germany",Fushimi Inari Shrine
+51,51,"New York, USA","Mumbai, India",Gateway of India
+52,52,"Delhi, India","Munich, Germany",Hollywood Walk of Fame
+53,53,"Delhi, India","Munich, Germany",Gateway of India
+54,54,"New York, USA","Mumbai, India",Neuschwanstein Castle
+55,55,"Tokyo, Japan","Los Angeles, USA",Neuschwanstein Castle
+56,56,"Tokyo, Japan","Munich, Germany",Gateway of India
+57,57,"Tokyo, Japan","Mumbai, India",Hollywood Walk of Fame
+58,58,"Tokyo, Japan","Mumbai, India",Gateway of India
+59,59,"Delhi, India","Los Angeles, USA",Gateway of India
+60,60,"Tokyo, Japan","Munich, Germany",Neuschwanstein Castle
+61,61,"Delhi, India","Kyoto, Japan",Gateway of India
+62,62,"Tokyo, Japan","Mumbai, India",Hollywood Walk of Fame
+63,63,"Berlin, Germany","Kyoto, Japan",Hollywood Walk of Fame
+64,64,"New York, USA","Los Angeles, USA",Fushimi Inari Shrine
+65,65,"Tokyo, Japan","Kyoto, Japan",Hollywood Walk of Fame
+66,66,"Berlin, Germany","Munich, Germany",Hollywood Walk of Fame
+67,67,"Tokyo, Japan","Los Angeles, USA",Hollywood Walk of Fame
+68,68,"Tokyo, Japan","Kyoto, Japan",Neuschwanstein Castle
+69,69,"Tokyo, Japan","Kyoto, Japan",Hollywood Walk of Fame
+70,70,"New York, USA","Los Angeles, USA",Fushimi Inari Shrine
+71,71,"Delhi, India","Kyoto, Japan",Gateway of India
+72,72,"Tokyo, Japan","Munich, Germany",Hollywood Walk of Fame
+73,73,"New York, USA","Kyoto, Japan",Neuschwanstein Castle
+74,74,"Delhi, India","Mumbai, India",Gateway of India
+75,75,"Delhi, India","Munich, Germany",Gateway of India
+76,76,"Berlin, Germany","Munich, Germany",Gateway of India
+77,77,"New York, USA","Munich, Germany",Neuschwanstein Castle
+78,78,"Tokyo, Japan","Los Angeles, USA",Gateway of India
+79,79,"Berlin, Germany","Kyoto, Japan",Neuschwanstein Castle
+80,80,"New York, USA","Munich, Germany",Neuschwanstein Castle
+81,81,"Tokyo, Japan","Los Angeles, USA",Hollywood Walk of Fame
+82,82,"Berlin, Germany","Los Angeles, USA",Gateway of India
+83,83,"New York, USA","Munich, Germany",Fushimi Inari Shrine
+84,84,"New York, USA","Munich, Germany",Neuschwanstein Castle
+85,85,"Delhi, India","Kyoto, Japan",Hollywood Walk of Fame
+86,86,"Tokyo, Japan","Los Angeles, USA",Gateway of India
+87,87,"New York, USA","Mumbai, India",Fushimi Inari Shrine
+88,88,"Berlin, Germany","Mumbai, India",Gateway of India
+89,89,"Delhi, India","Kyoto, Japan",Neuschwanstein Castle
+90,90,"Tokyo, Japan","Munich, Germany",Fushimi Inari Shrine
+91,91,"Delhi, India","Los Angeles, USA",Gateway of India
+92,92,"Delhi, India","Kyoto, Japan",Hollywood Walk of Fame
+93,93,"Tokyo, Japan","Mumbai, India",Neuschwanstein Castle
+94,94,"Berlin, Germany","Kyoto, Japan",Fushimi Inari Shrine
+95,95,"Tokyo, Japan","Munich, Germany",Fushimi Inari Shrine
+96,96,"Berlin, Germany","Mumbai, India",Neuschwanstein Castle
+97,97,"New York, USA","Kyoto, Japan",Gateway of India
+98,98,"Tokyo, Japan","Los Angeles, USA",Gateway of India
+99,99,"Berlin, Germany","Kyoto, Japan",Fushimi Inari Shrine
+100,100,"Delhi, India","Kyoto, Japan",Fushimi Inari Shrine
